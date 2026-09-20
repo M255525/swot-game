@@ -1,0 +1,16 @@
+{
+  "name": "SWOT 卡牌配對練習遊戲",
+  "short_name": "SWOT配對",
+  "description": "把企業情境卡拖進正確的 SWOT 象限，練習優勢/劣勢/機會/威脅分析",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#1a2216",
+  "theme_color": "#2e3a24",
+  "lang": "zh-TW",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
